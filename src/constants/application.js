@@ -1,0 +1,1 @@
+export const API_TIMEOUT_MILLISECONDS = 300000
